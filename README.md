@@ -1,2 +1,2 @@
-# Repo
-My first GitHub Repo
+# First Attempt 
+I love :soccer:, burritos, videogames. 
